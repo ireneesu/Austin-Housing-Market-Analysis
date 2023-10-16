@@ -42,7 +42,7 @@ In the initial data preparation phase, we performed the following task:
   
 ### Exploratory Data Analysis 
 
-EDA involoved exploring the hr data to answer key questions, such as:
+EDA involoved exploring the housing price data to answer key questions, such as:
 
 1. Which variables have the strongest relationship with the response variable Price?
 2. Which model has better performance in predicting the response variable Price?
